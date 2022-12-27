@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @DariusGraur
-- 👀 I’m interested in learning more about programming languages.
-- 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on homework and personal projects.
+- 👀 I’m interested in learning more about programming
 - 📫 How to reach me graurdarius1990@gmail.com
 
 <!---
